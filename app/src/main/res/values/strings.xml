@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="newstring">
+https://newsapi.org\n
+https://square.github.io/retrofit\n
+https://material.io/design\n
+http://www.ocpsoft.org/prettytime</string>
+</resources>
